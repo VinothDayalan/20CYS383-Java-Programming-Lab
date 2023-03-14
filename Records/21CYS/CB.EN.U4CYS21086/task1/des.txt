@@ -1,0 +1,17 @@
+helloworld.cpp is a C program that has been saved with a .cpp extension. 
+Although the program is written in C, using the .cpp extension indicates 
+that the file is intended to be compiled with a C++ compiler such as g++.
+
+The program prints the message "Hello, World!" to the console, which is 
+achieved by using the printf() function, a common function used for 
+printing text in C and C++.
+
+To compile the program using g++, the command g++ helloworld.cpp -o 
+helloworld can be used. This will generate an executable file named 
+helloworld, which can be run from the command line to execute the program 
+and print the message to the console.
+
+It's worth noting that although C and C++ are similar languages, there are 
+some differences between them. Therefore, it's important to write C code 
+that is compatible with a C++ compiler if you want to use a .cpp file 
+extension and compile it with a C++ compiler like g++.
