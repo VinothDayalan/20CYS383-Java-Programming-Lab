@@ -2,6 +2,12 @@
 
 This Java application allows you to make API calls to the Blockchain.info API and retrieve information based on the provided search input. The application provides a simple graphical user interface (GUI) built using Swing.
 
+
+### Module Split-up
+| Name | Topic |
+|------|-------|
+| Vinoth Kumar D | All Activity |
+
 ## Prerequisites
 
 - Java Development Kit (JDK) installed
@@ -146,6 +152,10 @@ The application does not have any external dependencies beyond the standard Java
 
 ## Gif
 
-<video>
-    <source src="gif.mov" type="video/mov">
-</video>
+ ![video](https://github.com/VinothDayalan/20CYS383-Java-Programming-Lab/blob/main/Records/21CYS/CB.EN.U4CYS21086/gif.mov)
+
+## Screenshots
+
+<img src="https://github.com/VinothDayalan/20CYS383-Java-Programming-Lab/blob/main/Records/21CYS/CB.EN.U4CYS21086/ss1.png">
+&nbsp &nbsp &nbsp
+<img src="https://github.com/VinothDayalan/20CYS383-Java-Programming-Lab/blob/main/Records/21CYS/CB.EN.U4CYS21086/ss1.png">
